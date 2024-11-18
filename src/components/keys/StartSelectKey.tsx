@@ -14,7 +14,7 @@ export function StartSelectKey({ isStart }: StartSelectProps) {
 			<Button className={`w-8 h-8 rounded-full`}>
 				<Keybind
 					letter={isStart ? KeyMap.START_KEY : KeyMap.SELECT_KEY}
-					parentTargetAngle={12 /* rotate-[348deg] */}
+					parentTargetAngle={12 /* tw rotate-[348deg] */}
 				/>
 			</Button>
 		</div>
