@@ -5,5 +5,5 @@ module.exports = {
 		extend: {},
 	},
 	plugins: [],
-	safelist: [{ pattern: /rotate-(0|90|180|270)/ }],
+	safelist: [{ pattern: /(-)?rotate-(0|90|180|270)/ }],
 }

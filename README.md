@@ -31,6 +31,9 @@ yarn prettier . --write
 
 ![gameboy diagram](https://media.discordapp.net/attachments/1292214039669379164/1307492699397685258/Untitled.png?ex=673a80f7&is=67392f77&hm=8dc259d9a5854171658d605c2c8bbb573fc2e825a846c80c656340b3f630c20c&=&format=webp&quality=lossless&width=472&height=240)
 
+### Wishlist
+- Utilize different borders for a 3d effect: https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius
+
 ## Learnings
 
 ### Setup
